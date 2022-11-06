@@ -4,11 +4,11 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Set;
 
-//import static ba.unsa.etf.rpr.FiksniBroj.Grad.*;
+import static ba.unsa.etf.rpr.FiksniBroj.Grad.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ImenikTest {
-/*
+
     @Test
     void dodaj() {
         Imenik imenik = new Imenik();
@@ -60,6 +60,6 @@ class ImenikTest {
         }
         assertEquals("033/123-156,033/123-456,033/123-656,", result);
     }
-    */
+
 
 }
